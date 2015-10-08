@@ -9,12 +9,10 @@ print str
 str_split = str.split('.')
 print str_split
 
-
 #去掉最后一个字符
 str2 = 'hh,query is not the one;'
 str2 = str2[:-1]
 print str2
-
 
 #替换字符串中的特定字符
 
@@ -35,4 +33,45 @@ a2 = a1.replace("word","python");
 print a2
 str4 = "this is string example....wow!!! this is really string";
 print str4.replace("is", "was");
+
+#########################################
+
+#把txt列表中存在于当前目录的图片复制
+#到一个新的文件夹中
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
